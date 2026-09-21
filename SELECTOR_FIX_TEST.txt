@@ -1,0 +1,8 @@
+V6.2 selector regression test
+=============================
+PASS: primary MAX35 selector resolved to BOARD_TYPE_SPOTPEAR_ESP32_S3_3_5_LCD.
+PASS: USE_DEVICE_AEC excluded from board candidates.
+PASS: nested ML307/4G variant selected in synthetic two-level SpotPear Kconfig.
+PASS: sibling Wi-Fi variant disabled.
+PASS: fixed OTA URL preserved.
+PASS: preflight validates parent board + ML307 child + UI-only patch.
